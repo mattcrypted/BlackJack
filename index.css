@@ -1,0 +1,47 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: green;
+    font-weight: bold;
+    background-image: url("https://media.istockphoto.com/photos/blackjack-picture-id153493845?k=20&m=153493845&s=612x612&w=0&h=XylCq8c-bATv9o_8HEuToJtclXQkAxr-wCFV-hOLJZc=");
+    background-size: cover;
+    
+}
+h1{
+    color: goldenrod;
+
+}
+#message-el{
+color:goldenrod;
+font-style: italic;
+font-size: larger;
+}
+#cards-el{
+    color: goldenrod;
+    font-size: larger;
+}
+#sum-el{
+    color:goldenrod;
+    font-size: larger;
+}
+#start-btn{
+    color: #016f32;
+    font-weight: bold;
+    width: 150px;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 2px;
+}
+#new-btn{
+    color: #016f32;
+    font-weight: bold;
+    width: 150px;
+    background-color: goldenrod;
+    border: none;
+    border-radius: 2px;
+}
+#player-el{
+    color:rgb(62, 62, 141);
+    font-weight: bolder;
+    font-size: larger;
+}
